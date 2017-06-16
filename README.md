@@ -1,4 +1,4 @@
-#H1 One MEAN Ionic 2 Todo App on Heroku
+# H1 One MEAN Ionic 2 Todo App on Heroku
 
 Following the article on [http://blog.ionic.io]
 [Part 1](http://blog.ionic.io/one-mean-ionic-2-todo-app-on-heroku-part-1/)
